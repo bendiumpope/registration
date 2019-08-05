@@ -7,6 +7,9 @@
     "start": "json-server --watch db.json",
     "test": "jest"
   },
+  "dependencies": {
+    "json-server": "0.15.0"
+  },
   "author": "benedict",
   "license": "ISC"
 }
