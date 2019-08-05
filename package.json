@@ -4,6 +4,7 @@
   "description": "quiz registration number application",
   "main": "index.js",
   "scripts": {
+    "start": "json-server --watch db.json",
     "test": "jest"
   },
   "author": "benedict",
