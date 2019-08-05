@@ -1,0 +1,11 @@
+{
+  "name": "quiz",
+  "version": "1.0.0",
+  "description": "quiz registration number application",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "benedict",
+  "license": "ISC"
+}

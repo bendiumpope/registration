@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "firstName": "benedict",
+      "lastName": "ama",
+      "regNum": "0123456789AB"
+    },
+    {
+      "firstName": "michael",
+      "lastName": "okey",
+      "regNum": "65917988689LM",
+      "id": 2
+    },
+    {
+      "firstName": "bashar",
+      "lastName": "abdullahi",
+      "regNum": "36362213489TZ",
+      "id": 3
+    }
+  ]
+}
